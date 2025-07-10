@@ -1,0 +1,17 @@
+# IDE and project config
+.idea/
+
+# Data directories
+data/
+
+# Model weights
+**/*.pt
+**/*.pth
+
+# Segment Anything temp or model directory
+.sam/
+
+# Python cache
+**/__pycache__/
+
+output_dir
